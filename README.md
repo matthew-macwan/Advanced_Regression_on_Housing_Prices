@@ -4,7 +4,7 @@ In this project, I analyzed housing data to predict the sale price of a home bas
 
 FILE DESCRIPTION 
 
-- train.csv 
-- prepared.csv
-- Ames_Regression.ipynb
-- description.txt 
+- train.csv - CSV file containing the initial dataset of housing data 
+- prepared.csv - CSV file of the dataset after data cleaning and prepped for machiine learning models
+- Ames_Regression.ipynb - Jupyter notebook containing the EDA, ETL and machine learning models from the Ames housing dataset  
+- data_description.txt - text file describing each of the features in the dataset
