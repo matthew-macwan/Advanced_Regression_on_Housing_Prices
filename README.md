@@ -12,4 +12,4 @@ In this project, I analyzed housing data to predict the sale price of a home bas
 
 ### Topics Covered 
 
-- data cleaning, data visualization, exploratory data analysis, machine learning, hyperparameter tuning, grid search, ensemble methods, regressors
+- data cleaning, data visualization, exploratory data analysis, machine learning, hyperparameter tuning, grid search, ensemble methods, linear regression, ridge regression, lasso regression, elastic net, decision tree regressor, random forest regressor, bagging regressor, support vector machine, KPI analysis 
