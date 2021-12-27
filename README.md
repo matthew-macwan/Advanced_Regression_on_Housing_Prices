@@ -10,6 +10,6 @@ In this project, I analyzed housing data to predict the sale price of a home bas
 - data_description.txt - text file describing each of the features in the dataset
 
 
-### Data Science Topics Covered 
+### Topics Covered 
 
 - data cleaning, data visualization, exploratory data analysis, machine learning, hyperparameter tuning, grid search, ensemble methods, regressors
